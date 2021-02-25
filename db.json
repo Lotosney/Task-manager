@@ -1,0 +1,20 @@
+{
+  "tasks": [
+    {
+      "text": "Dentysta",
+      "place": "Gdańsk",
+      "time": "10.00",
+      "day": "26 Luty",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Rozmowa o prace",
+      "place": "Gdynia",
+      "time": "10.00",
+      "day": "14.05",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
